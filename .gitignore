@@ -11,7 +11,7 @@ __pycache__/
 
 # OS files
 .DS_Store
-Expensive.db
+expensive.db
 
 # Builds
 dist/
